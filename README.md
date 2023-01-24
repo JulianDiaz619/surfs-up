@@ -15,3 +15,4 @@ As we see, we have almost 200 more logged temperatures for June, coming in at a 
 ![](prep.png)
 In order to start off this analysis, we had to make sure SQLalchemy was set up by running the code in the image above.
 
+![]()
