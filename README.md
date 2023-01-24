@@ -22,3 +22,4 @@ In the image above is the main formula that gathers all June temperature data, g
 Here we gathered some additional data for the amount of precipitation June and December got.
 ![](juneprcp.png) ![](decprcp.png)
 
+These two additional queries suggest that it rains more often in June according to the "count" data, but in general there is more precipitation in December according to the means. Junes mean is .13 while Decembers mean is .21.
