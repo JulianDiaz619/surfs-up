@@ -20,5 +20,5 @@ In the image above is the main formula that gathers all June temperature data, g
 
 ###### Extra Data
 Here we gathered some additional data for the amount of precipitation June and December got.
-![]() ![]()
+![](juneprcp.png) ![](decprcp.png)
 
