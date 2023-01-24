@@ -17,3 +17,8 @@ In order to start off this analysis, we had to make sure SQLalchemy was set up b
 
 ![](june.png)
 In the image above is the main formula that gathers all June temperature data, gathering the date, and the temperature, then using extract and filter to only grab the data where the month is 6, which is June. In the second cell we added ".all()" to get the data turned into a list. We then turn it into a pandas DataFrame by putting the results variable as the first argument and naming the columns as the second argument in the DataFrame. That allows us to use ".describe" on the DataFrame to get the summary statistics of the month. This code runs exactly the same for December but instead of month being equal to 6, we set it equal to 12 because December is the 12th month of the year. We run the exact same code to turn it into a DataFrame, except the results variable would be something like results_dec and the columns would just be date and "Temp (December)".
+
+###### Extra Data
+Here we gathered some additional data for the amount of precipitation June and December got.
+![]() ![]()
+
